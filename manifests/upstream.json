@@ -1,0 +1,27 @@
+{
+  "repository": "vcruz305/llama.cpp",
+  "commit": "2076412598e99127ea2554467b2b7530856895d3",
+  "pull_request": "https://github.com/ggml-org/llama.cpp/pull/28696",
+  "observed_pr_state": "open",
+  "retrieved_utc": "2026-10-17",
+  "inspected_files": [
+    {
+      "path": "common/arg.cpp",
+      "url": "https://raw.githubusercontent.com/vcruz305/llama.cpp/2076412598e99127ea2554467b2b7530856895d3/common/arg.cpp",
+      "bytes": 220849,
+      "sha256": "25c465a79b18a360d8bbe422feafa292ebca1f570985b21d69bbdc0f3df6e1f9"
+    },
+    {
+      "path": "tools/server/README.md",
+      "url": "https://raw.githubusercontent.com/vcruz305/llama.cpp/2076412598e99127ea2554467b2b7530856895d3/tools/server/README.md",
+      "bytes": 106415,
+      "sha256": "b45beb0842fcc98709b7df26d22da93db5f73f88386f0a6a9d6c18eac522b024"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/vcruz305/llama.cpp/2076412598e99127ea2554467b2b7530856895d3/LICENSE",
+      "bytes": 1078,
+      "sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d"
+    }
+  ]
+}
